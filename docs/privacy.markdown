@@ -2,6 +2,7 @@
 layout: page
 title: Política de Privacidad
 permalink: /privacy/
+menu: main
 toc: false
 ---
 
@@ -35,6 +36,6 @@ info@todolegal.app\
 +1 302 918-5516\
 Glyphtech Codex LLC DBA TODOLEGAL LLC\
 16192 Coastal Highway\
-Lewes, Delaware 19958 U.S.\
-\
+Lewes, Delaware 19958 U.S.
+
 Vigente a partir de Agosto 9, 2020.

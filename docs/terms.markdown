@@ -2,6 +2,7 @@
 layout: page
 title: Términos y Condiciones de Uso
 permalink: /terms/
+menu: main
 toc: false
 ---
 
@@ -27,19 +28,19 @@ En todo caso, la empresa excluye cualquier responsabilidad por los daños y perj
 
 4.1 El Cliente es responsable de:
 
-    a. El Cumplimiento por parte de sus Usuarios de estos Términos y Condiciones.
-    b. Emplear razonables esfuerzos para impedir el uso del Servicio por personas no autorizadas y notificar a TODOLEGAL en caso de que estas se produzcan. El Cliente acepta que usará el Servicio en calidad de usuario final, sin que pueda ceder su uso a otras personas u organizaciones distintas, ni de forma gratuita ni onerosa.
-    c. La comunicación o cesión de los datos de acceso a otros individuos u organizaciones constituirá un incumplimiento grave del presente contrato. El cliente será responsable también de cualquier daño, perjuicio y pérdida, así como de los costes que se incurran por razón del mismo incluyendo los costes de asesoramiento jurídico. A los efectos del presente contrato, cada acceso no autorizado a los contenidos, productos y servicios ofrecidos en el sitio web todolegal.app, tendrá la consideración de contratación de dichos contenidos, productos o servicios por parte del Cliente cuyo nombre de usuario y contraseña se haya usado de forma irregular, por lo que TODOLEGAL quedará facultada para facturar y exigir el pago de estas compras individuales de acuerdo con las tarifas de precios vigentes en cada momento.
-    d. Proporcionar información de contacto completa y veraz, siendo responsable de su actualización. A todos los efectos se considerará que las comunicaciones realizadas por TODOLEGAL a los datos de contacto comunicados por el cliente tienen validez legal. En caso de que TODOLEGAL no se pueda contactar con el Cliente, por cualquier causa, o que los datos de contacto no sean suficientes, la empresa podrá suspender temporalmente el acceso al servicio o producto que se haya contratado en tanto y en cuanto el Cliente no actualice los datos de contacto.
+ - El Cumplimiento por parte de sus Usuarios de estos Términos y Condiciones.
+ - Emplear razonables esfuerzos para impedir el uso del Servicio por personas no autorizadas y notificar a TODOLEGAL en caso de que estas se produzcan. El Cliente acepta que usará el Servicio en calidad de usuario final, sin que pueda ceder su uso a otras personas u organizaciones distintas, ni de forma gratuita ni onerosa.
+ - La comunicación o cesión de los datos de acceso a otros individuos u organizaciones constituirá un incumplimiento grave del presente contrato. El cliente será responsable también de cualquier daño, perjuicio y pérdida, así como de los costes que se incurran por razón del mismo incluyendo los costes de asesoramiento jurídico. A los efectos del presente contrato, cada acceso no autorizado a los contenidos, productos y servicios ofrecidos en el sitio web todolegal.app, tendrá la consideración de contratación de dichos contenidos, productos o servicios por parte del Cliente cuyo nombre de usuario y contraseña se haya usado de forma irregular, por lo que TODOLEGAL quedará facultada para facturar y exigir el pago de estas compras individuales de acuerdo con las tarifas de precios vigentes en cada momento.
+ - Proporcionar información de contacto completa y veraz, siendo responsable de su actualización. A todos los efectos se considerará que las comunicaciones realizadas por TODOLEGAL a los datos de contacto comunicados por el cliente tienen validez legal. En caso de que TODOLEGAL no se pueda contactar con el Cliente, por cualquier causa, o que los datos de contacto no sean suficientes, la empresa podrá suspender temporalmente el acceso al servicio o producto que se haya contratado en tanto y en cuanto el Cliente no actualice los datos de contacto.
 
 4.2 Uso permitido
 
 Los Usuarios podrán hacer un uso razonable de los contenidos suministrados para el uso individual de estos. En particular el Cliente y sus Usuarios podrán ser usar los Contenidos incluidos en los Servicios para:
 
-    * Visualización electrónica de los contenidos.
-    * Impresión o copia digital de partes no sustanciales de los contenidos para un uso profesional.
-    * Creación de Materiales de Apoyo a Cursos de formación.
-    * Envío a terceros de porciones mínimas, no sustanciales.
+ - Visualización electrónica de los contenidos.
+ - Impresión o copia digital de partes no sustanciales de los contenidos para un uso profesional.
+ - Creación de Materiales de Apoyo a Cursos de formación.
+ - Envío a terceros de porciones mínimas, no sustanciales.
 
 4.3 Uso no permitido.
 
@@ -71,16 +72,16 @@ El Software se pone a disposición para su uso exclusivamente para los usuarios.
 
 Este apartado establece los límites de responsabilidad de TODOLEGAL, y de sus sociedades, matrices, filiales, asociadas, sociedades vinculadas, directivos, consejeros, empleados, agentes, representantes, socios y licenciatarios (en adelante, colectivamente, las «Entidades de TODOLEGAL,»). El usuario es responsable del uso que haga de los Servicios o del Contenido y del acceso a estos. Usted entiende y acepta que los Servicios se le proporcionan COMO ESTÁN Y SEGÚN DISPONIBILIDAD. Intentamos mantener TODOLEGAL en funcionamiento, sin errores y seguro, pero usted lo utiliza bajo su propia responsabilidad. Proporcionamos TODOLEGAL tal cual, sin garantía alguna expresa o implícita, incluidas, entre otras, las garantías de comerciabilidad, adecuación a un fin particular y no incumplimiento. No garantizamos que TODOLEGAL sea siempre seguro o esté libre de errores, ni que funcione siempre sin interrupciones, retrasos o imperfecciones. TODOLEGAL no se responsabiliza de las acciones, el contenido, la información o los datos de terceros, y por la presente usted dispensa a la Empresa, nuestros directivos, empleados y agentes de cualquier demanda o daños, conocidos o desconocidos, derivados de cualquier demanda que tenga interpuesta contra tales, terceros o de algún modo relacionados con esta. Las Entidades de TODOLEGAL, no ofrecen ninguna garantía y excluye toda responsabilidad con respecto a:
 
-    * La integridad, exactitud, disponibilidad, puntualidad, seguridad o fiabilidad de los Servicios o el Contenido,
-    * Los daños ocasionados en su sistema informático, la pérdida de datos u otros daños que sean consecuencia del uso que usted haga de los Servicios o del Contenido o del acceso a estos,
-    * La supresión del Contenido y de otras comunicaciones mantenidas a través de los Servicios o la omisión de guardarlos o transferirlos. Los consejos o las informaciones, verbales o por escrito, proporcionados por las Entidades de TODOLEGAL, o a través de los Servicios prestados por esta, no crearán ninguna garantía que no se ofrezca de manera expresa en el presente.
+  - La integridad, exactitud, disponibilidad, puntualidad, seguridad o fiabilidad de los Servicios o el Contenido,
+  - Los daños ocasionados en su sistema informático, la pérdida de datos u otros daños que sean consecuencia del uso que usted haga de los Servicios o del Contenido o del acceso a estos,
+  - La supresión del Contenido y de otras comunicaciones mantenidas a través de los Servicios o la omisión de guardarlos o transferirlos. Los consejos o las informaciones, verbales o por escrito, proporcionados por las Entidades de TODOLEGAL, o a través de los Servicios prestados por esta, no crearán ninguna garantía que no se ofrezca de manera expresa en el presente.
 
 En la medida máxima permitida por la legislación aplicable, las Entidades de TODOLEGAL, no serán responsables por los daños indirectos, incidentales, cuantificables, emergentes o punitivos; pérdidas de beneficios o ingresos, directas o indirectas, o pérdidas de datos, uso, fondo de comercio u otras pérdidas intangibles, que sean consecuencia:
 
-    * Del uso que usted haga de los Servicios o del acceso a estos por su parte, o de la imposibilidad de utilizar los servicios o acceder a estos,
-    * De la conducta o el Contenido de terceros en los servicios, incluido, a título enunciativo, toda conducta difamatoria, ofensiva o ilícita de otros usuarios o terceros,
-    * Del contenido obtenido a través de los Servicios, o
-    * Del acceso, el uso o la modificación no autorizados de su contenido o de las transferencias que usted efectúe. Las limitaciones que se establecen en este subapartado se aplican a toda teoría de responsabilidad, sea por garantía, contrato, ley, agravio (incluida negligencia) o según sea el caso, e independientemente de que se haya informado a las Entidades de TODOLEGAL, de la posibilidad de que se produzcan tales daños, incluso en el caso de que un recurso establecido en virtud del presente haya fallado en su propósito esencial. En ningún caso la Empresa, TODOLEGAL, o sus proveedores pueden ser señalados responsables por cualquier daño especial, indirecto o cualquier otro tipo de daño que resulte de la pérdida de información por el uso o negligencia que surja por o en conexión con el uso o desempeño del Software, documentos o alguna falla al proveer los Servicios o información disponible en ellos.
+   - Del uso que usted haga de los Servicios o del acceso a estos por su parte, o de la imposibilidad de utilizar los servicios o acceder a estos,
+   - De la conducta o el Contenido de terceros en los servicios, incluido, a título enunciativo, toda conducta difamatoria, ofensiva o ilícita de otros usuarios o terceros,
+   - Del contenido obtenido a través de los Servicios, o
+   - Del acceso, el uso o la modificación no autorizados de su contenido o de las transferencias que usted efectúe. Las limitaciones que se establecen en este subapartado se aplican a toda teoría de responsabilidad, sea por garantía, contrato, ley, agravio (incluida negligencia) o según sea el caso, e independientemente de que se haya informado a las Entidades de TODOLEGAL, de la posibilidad de que se produzcan tales daños, incluso en el caso de que un recurso establecido en virtud del presente haya fallado en su propósito esencial. En ningún caso la Empresa, TODOLEGAL, o sus proveedores pueden ser señalados responsables por cualquier daño especial, indirecto o cualquier otro tipo de daño que resulte de la pérdida de información por el uso o negligencia que surja por o en conexión con el uso o desempeño del Software, documentos o alguna falla al proveer los Servicios o información disponible en ellos.
 
 ## 8. No asesoramiento jurídico. 
 
