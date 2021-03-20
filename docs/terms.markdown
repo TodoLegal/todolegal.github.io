@@ -3,8 +3,11 @@ layout: page
 title: Términos y Condiciones de Uso
 permalink: /terms/
 menu: main
+language: es
 toc: false
 ---
+
+<button class="btn">[EN]({{ site.baseurl }}{% link terms_english.markdown %})</button>
 
 ## 1. Introducción. 
 

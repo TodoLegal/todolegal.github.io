@@ -1,9 +1,12 @@
 ---
 layout: page
-title: TERMS AND CONDITIONS 
+title: Terms and Conditions
 permalink: /terms/en/
+language: en
 toc: false
 ---
+
+<button class="btn">[ES]({{ site.baseurl }}{% link terms.markdown %})</button>
 
 ## 1. Introduction.
 These Terms and Conditions shall govern your access to and use of the software as a service (SaaS) TODOLEGAL (hereinafter, the Services or SaaS). TODOLEGAL is a Doing Business As (DBA) or trade name of Glyphtech Codex LLC a Delaware Limited Liability Company (hereinafter, the "Company") and any information, text, graphics, photographs or other materials uploaded or displayed on or downloaded through the Services (hereinafter collectively, the "Content"). The mere access and/or use of the Services and your use of the Services means acceptance of compliance with these Terms of Use. The Company reserves the right to update without prior notice the TODOLEGAL software, so from the moment of acceptance of this document, the user understands and accepts such condition.

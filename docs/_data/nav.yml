@@ -1,0 +1,15 @@
+text: "jello"
+
+languages:
+  - language: en
+    links:
+      - title: "Terms and Conditions"
+        url: /terms/en/
+      - title: "Privacy Policy"
+        url: /privacy/en/
+  - language: es
+    links:
+      - title: "Terminos y Condiciones"
+        url: /terms/
+      - title: "Política de Privacidad"
+        url: /privacy/

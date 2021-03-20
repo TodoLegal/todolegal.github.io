@@ -24,6 +24,27 @@
   transition: all 0.4s ease-in-out;
 }
 
+.btn {
+  height: auto;
+  border-radius: 4px;
+  font-size: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.25rem 1rem;
+  transition: all 0.4s ease-in-out;
+  color: #007bff;
+  border-color: #007bff;
+  background-color: transparent;
+}
+
+.btn:hover,
+.btn > a:hover {
+  color: #fff;
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
 /** Reset some basic elements */
 
 body,

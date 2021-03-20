@@ -2,8 +2,12 @@
 layout: page
 title: Privacy Policy
 permalink: /privacy/en/
+language: en
 toc: false
 ---
+
+
+<button class="btn">[ES]({{ site.baseurl }}{% link privacy.markdown %})</button>
 
 This document entitled "Privacy Policy" sets out the terms on which Glyphtech Codex LLC uses and protects the information that is provided by its users when using its website. This company is committed to the security of its users' data. When we ask you to fill in the fields of personal information with which you can be identified, we do so by ensuring that it will only be used in accordance with the terms of this document. However, this Privacy Policy may change over time or be updated so we recommend and emphasize continually reviewing this page to ensure that you agree to such changes.
 
