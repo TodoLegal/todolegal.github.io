@@ -21,11 +21,13 @@
 title: TODOLEGAL
 email: info@todolegal.app
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Estos Términos y Condiciones regirán su acceso y uso del software como servicio (SaaS) TODOLEGAL (en adelante, los Servicios o SaaS). 
+  TODOLEGAL es un Doing Business As (DBA) o nombre comercial de Glyphtech Codex LLC, una Compañía de Responsabilidad Limitada de Delaware (en adelante, la "Compañía") 
+  y cualquier información, texto, gráficos, fotografías u otros materiales cargados, mostrados o descargados a través de los Servicios (en adelante colectivamente, el "Contenido"). 
+  El mero acceso y / o uso de los Servicios y su uso de los Servicios significa la aceptación del cumplimiento de estos Términos de Uso. La Empresa se reserva el derecho
+  de actualizar sin previo aviso el software TODOLEGAL, por lo que desde el momento de la aceptación de este documento, el usuario comprende y acepta dicha condición.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://policies.todolegal.app/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter: jekyllrb
 github: jekyll
 
