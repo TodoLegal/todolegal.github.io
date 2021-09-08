@@ -94,11 +94,18 @@ TODOLEGAL, y los terceros proveedores de contenidos, no ofrecen garantías, ni e
 
 Si el cliente es un abogado, éste acepta que en algunos países y jurisdicciones las Normas de Conducta Profesional pueden resultar aplicables en relación a su uso de este sitio web y de sus Contenidos. En las jurisdicciones donde resulta aplicable el “common law” el Cliente consiente expresamente que será su exclusiva responsabilidad asegurarse de que un caso determinado siga resultando aplicable. El Cliente asume que todos los documentos incluidos en el Servicio se incluyen a efectos meramente orientativos y que cualquier decisión tomada en base a los mismos se hace a cuenta y riesgo de el cliente.
 
-## 9. Ley aplicable y jurisdicción competente. 
+## 9. Recolección y procesamiento de información legal (La Gaceta).
+
+TodoLegal recopila información sobre las publicaciones del diario oficial “La Gaceta” de la República de Honduras únicamente. Ni Todolega/Glyphtech Codex LLC ., sus sucursales, franquicias, afiliadas, socios, accionistas, empleados o colaboradores, son responsables directa o indirectamente por tiempo, forma, orden cronológico o errores de emisión o no de las mismas. Una vez La Gaceta haya emitido y puesto en circulación sus publicaciones, podría tomar un tiempo aproximado de setenta y dos (72) horas el procesar cada una de dichas publicaciones a efectos de ponerla a disposición del usuario por medio del software Todolegal.app. 
+
+Todolegal/ Glyphtech Codex LLC., NO comercializa directa o indirectamente por sí o por terceros el diario oficial La Gaceta. 
+
+
+## 10. Ley aplicable y jurisdicción competente. 
 
 En el caso de una disputa que surja de la interpretación o cumplimiento de estos Términos de Uso, las Políticas de Privacidad o cualquier otro documento relevante del software, el usuario acepta que se aplicarán las Leyes del Estado de Delaware, renunciando expresamente a cualquier otra jurisdicción. o jurisdicción que le pudiera corresponder por razón de su domicilio presente o futuro.
 
-## 10. Contacto 
+## 11. Contacto 
 
 info@todolegal.app\
 +1 302 918-5516\
@@ -107,3 +114,4 @@ Glyphtech Codex LLC DBA TODOLEGAL LLC\
 Lewes, Delaware 19958 U.S.\
 
 Vigente a partir de Agosto 9, 2020.
+Últimos cambios realizados el 7 de septiembre del 2021.
