@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Terms and Conditions
-permalink: /ai/terms/en/
+permalink: /terms/en/
 language: en
 product: ai
 toc: false

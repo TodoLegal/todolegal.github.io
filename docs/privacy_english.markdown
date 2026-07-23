@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Privacy Policy
-permalink: /privacy/en/
+permalink: /legacy/privacy/en/
 language: en
 toc: false
 ---

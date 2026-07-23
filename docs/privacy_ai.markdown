@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Política de Privacidad
-permalink: /ai/privacy/
+permalink: /privacy/
 menu: main
 language: es
 product: ai

@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   El mero acceso y / o uso de los Servicios y su uso de los Servicios significa la aceptación del cumplimiento de estos Términos de Uso. La Empresa se reserva el derecho
   de actualizar sin previo aviso el software TODOLEGAL, por lo que desde el momento de la aceptación de este documento, el usuario comprende y acepta dicha condición.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://policies.todolegal.app/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://policies.todolegal.app" # the base hostname & protocol for your site, e.g. http://example.com
 twitter: jekyllrb
 github: jekyll
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Términos y Condiciones de Uso
-permalink: /terms/
+permalink: /legacy/terms/
 menu: main
 language: es
 toc: false

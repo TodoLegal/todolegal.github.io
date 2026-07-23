@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Política de Privacidad
-permalink: /privacy/
+permalink: /legacy/privacy/
 menu: main
 language: es
 toc: false
