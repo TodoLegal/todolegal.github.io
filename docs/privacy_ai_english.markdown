@@ -16,7 +16,7 @@ toc: false
 
 This Privacy Policy describes how Glyphtech Codex LLC, a limited liability company organized under the laws of the State of Delaware, United States of America, operating under the trade name TodoLegal, hereinafter referred to as "TodoLegal," "we," "us," or the "Company," collects, uses, stores, shares, and protects personal information.
 
-The data controller's contact information is: Glyphtech Codex LLC, trade name TodoLegal, 16192 Coastal Highway, Lewes, Delaware 19958, United States; general email address: info@todolegal.app; privacy email address: privacy@todolegal.app; and telephone number: +1 302 918-5516.
+The data controller's contact information is: Glyphtech Codex LLC, trade name TodoLegal, 16192 Coastal Highway, Lewes, Delaware 19958, United States; general email address: info@todolegal.app; privacy email address: legal@todolegal.app; and telephone number: +1 302 918-5516.
 
 This Policy applies to the websites, applications, platforms, document repositories, artificial intelligence tools, legal libraries, newsletters, alerts, and other products and services operated by TodoLegal, collectively referred to as the "Service."
 
@@ -320,7 +320,7 @@ The scope of these rights will depend on applicable law and may be subject to ex
 
 ## 26. How to Exercise Privacy Rights
 
-Requests may be submitted to privacy@todolegal.app or, until that channel is enabled, to info@todolegal.app.
+Requests may be submitted to legal@todolegal.app.
 
 The request should include: a) the requester's name; b) the email address associated with the account; c) the right the requester wishes to exercise; d) sufficient information to identify the relevant data; and e) the country or state of residence where relevant.
 
@@ -374,6 +374,6 @@ Glyphtech Codex LLC\
 Trade name: TodoLegal\
 16192 Coastal Highway\
 Lewes, Delaware 19958, United States\
-Privacy email: privacy@todolegal.app\
+Privacy email: legal@todolegal.app\
 General email: info@todolegal.app\
 Telephone: +1 302 918-5516
