@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Privacy Policy
-permalink: /ai/privacy/en/
+permalink: /privacy/en/
 language: en
 product: ai
 toc: false

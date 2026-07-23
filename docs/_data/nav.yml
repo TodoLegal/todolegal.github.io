@@ -8,28 +8,28 @@ groups:
     language: en
     links:
       - title: "Terms and Conditions"
-        url: /terms/en/
+        url: /legacy/terms/en/
       - title: "Privacy Policy"
-        url: /privacy/en/
+        url: /legacy/privacy/en/
   - product: legacy
     language: es
     links:
       - title: "Terminos y Condiciones"
-        url: /terms/
+        url: /legacy/terms/
       - title: "Política de Privacidad"
-        url: /privacy/
-  # AI product
+        url: /legacy/privacy/
+  # AI product — current policies, served at the canonical /terms/ and /privacy/
   - product: ai
     language: en
     links:
       - title: "Terms and Conditions"
-        url: /ai/terms/en/
+        url: /terms/en/
       - title: "Privacy Policy"
-        url: /ai/privacy/en/
+        url: /privacy/en/
   - product: ai
     language: es
     links:
       - title: "Términos y Condiciones"
-        url: /ai/terms/
+        url: /terms/
       - title: "Política de Privacidad"
-        url: /ai/privacy/
+        url: /privacy/

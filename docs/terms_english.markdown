@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Terms and Conditions
-permalink: /terms/en/
+permalink: /legacy/terms/en/
 language: en
 toc: false
 ---

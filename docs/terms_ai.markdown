@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Términos y Condiciones de Uso
-permalink: /ai/terms/
+permalink: /terms/
 menu: main
 language: es
 product: ai
