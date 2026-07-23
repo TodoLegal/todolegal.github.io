@@ -17,7 +17,7 @@ toc: false
 
 Esta Política de Privacidad describe cómo Glyphtech Codex LLC, una compañía de responsabilidad limitada constituida conforme a las leyes del Estado de Delaware, Estados Unidos de América, que opera bajo el nombre comercial TodoLegal, en adelante "TodoLegal", "nosotros" o la "Compañía", recopila, utiliza, almacena, comparte y protege información personal.
 
-Los datos de contacto del responsable son: Glyphtech Codex LLC, nombre comercial TodoLegal, 16192 Coastal Highway, Lewes, Delaware 19958, Estados Unidos; correo electrónico general: info@todolegal.app; correo de privacidad: privacidad@todolegal.app; y teléfono: +1 302 918-5516.
+Los datos de contacto del responsable son: Glyphtech Codex LLC, nombre comercial TodoLegal, 16192 Coastal Highway, Lewes, Delaware 19958, Estados Unidos; correo electrónico general: info@todolegal.app; correo de privacidad: legal@todolegal.app; y teléfono: +1 302 918-5516.
 
 Esta Política se aplica a los sitios web, aplicaciones, plataformas, repositorios documentales, herramientas de inteligencia artificial, bibliotecas legales, boletines, alertas y demás productos y servicios operados por TodoLegal, denominados conjuntamente el "Servicio".
 
@@ -321,7 +321,7 @@ El alcance de estos derechos dependerá de la legislación aplicable y podrá es
 
 ## 26. Cómo ejercer los derechos
 
-Las solicitudes podrán enviarse a privacidad@todolegal.app.
+Las solicitudes podrán enviarse a legal@todolegal.app.
 
 La solicitud deberá indicar: a) nombre; b) correo asociado con la cuenta; c) derecho que desea ejercer; d) información suficiente para identificar los datos correspondientes; y e) país o estado de residencia cuando sea relevante.
 
@@ -375,6 +375,6 @@ Glyphtech Codex LLC\
 Nombre comercial: TodoLegal\
 16192 Coastal Highway\
 Lewes, Delaware 19958, Estados Unidos\
-Correo de privacidad: privacidad@todolegal.app\
+Correo de privacidad: legal@todolegal.app\
 Correo general: info@todolegal.app\
 Teléfono: +1 302 918-5516
