@@ -251,7 +251,7 @@ El Cliente no deberá utilizar los planes de autoservicio para información suje
 
 ## 22. Soporte
 
-**22.1 Canales.** El Cliente podrá solicitar soporte a través de los canales indicados en la Plataforma o mediante el correo soporte@todolegal.app.
+**22.1 Canales.** El Cliente podrá solicitar soporte a través de los canales indicados en la Plataforma o mediante el correo legal@todolegal.app.
 
 **22.2 Tiempo de respuesta.** TodoLegal procurará proporcionar una primera respuesta dentro de las veinticuatro horas hábiles siguientes a la recepción de la solicitud. El tiempo indicado corresponde a una primera respuesta y no garantiza la solución definitiva dentro de ese plazo.
 
