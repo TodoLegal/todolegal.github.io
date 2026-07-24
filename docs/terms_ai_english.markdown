@@ -250,7 +250,7 @@ The Customer shall not use self-service plans to process information subject to 
 
 ## 22. Support
 
-**22.1 Support Channels.** The Customer may request support through the channels identified on the Platform or by contacting soporte@todolegal.app.
+**22.1 Support Channels.** The Customer may request support through the channels identified on the Platform or by contacting legal@todolegal.app.
 
 **22.2 Response Time.** TodoLegal will endeavor to provide an initial response within twenty-four business hours after receiving a support request. This time period applies to the initial response only and does not guarantee final resolution within that period.
 
