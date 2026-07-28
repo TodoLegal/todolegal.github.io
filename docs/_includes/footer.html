@@ -1,19 +1,60 @@
-<footer class="site-footer h-card">
+{%- assign lang = page.language | default: site.lang | default: 'es' -%}
+{%- assign product = page.product | default: 'ai' -%}
+
+<footer class="site-footer h-card" role="contentinfo">
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
-  <div class="wrapper">
-    <div class="footer-col-wrapper">
-        <div class="footer-col">
-            <p class="terms-line">
-                <a href="/terms">Términos</a>
-                y 
-                <a href="/privacy">Privacidad</a>
-            </p>
-            <p class="copyright">by TODOLEGAL LLC 2020</p>
-        </div>
-       
-        
-   </div>
-  </div>
+  <div class="wrapper site-footer__inner">
 
+    <div class="footer-grid">
+
+      <div class="footer-brand">
+        <a class="brand" href="https://todolegal.app/" aria-label="TodoLegal">
+          <span class="brand__word">Todolegal</span><span class="brand__dot" aria-hidden="true"></span>
+        </a>
+        <p class="footer-tagline">
+          {%- if lang == 'en' %}Verifiable legal intelligence.{% else %}Inteligencia legal verificable.{% endif -%}
+        </p>
+        <p class="footer-tagline">San Pedro Sula, Honduras</p>
+      </div>
+
+      <div class="footer-col">
+        <p class="eyebrow">Legal</p>
+        <ul class="footer-links">
+          {%- for item in site.data.nav.groups -%}
+            {%- if item.language == lang and item.product == product -%}
+              {%- for link in item.links -%}
+                <li><a href="{{ link.url | relative_url }}">{{ link.title }}</a></li>
+              {%- endfor -%}
+            {%- endif -%}
+          {%- endfor -%}
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <p class="eyebrow">{% if lang == 'en' %}Company{% else %}Compañía{% endif %}</p>
+        <ul class="footer-links">
+          <li><a href="https://todolegal.app/">todolegal.app</a></li>
+          <li><a href="mailto:legal@todolegal.app">legal@todolegal.app</a></li>
+        </ul>
+      </div>
+
+    </div>
+
+    <div class="footer-bottom">
+      <p class="copyright">
+        &copy; {{ site.time | date: "%Y" }} TODOLEGAL LLC.
+        {%- if lang == 'en' %} All rights reserved.{% else %} Derechos reservados.{% endif -%}
+      </p>
+
+      <div class="footer-social">
+        <a href="https://wa.me/50494714842" aria-label="WhatsApp" rel="me noopener" target="_blank"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 21l1.65-3.8a9 9 0 1 1 3.4 2.9l-5.05.9"/><path d="M9 10a.5.5 0 0 0 1 0V9a.5.5 0 0 0-1 0v1a5 5 0 0 0 5 5h1a.5.5 0 0 0 0-1h-1a.5.5 0 0 0 0 1"/></svg></a>
+        <a href="https://www.linkedin.com/company/todolegal/" aria-label="LinkedIn" rel="me noopener" target="_blank"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect width="4" height="12" x="2" y="9"/><circle cx="4" cy="4" r="2"/></svg></a>
+        <a href="https://www.instagram.com/todolegal.app/" aria-label="Instagram" rel="me noopener" target="_blank"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect width="20" height="20" x="2" y="2" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" x2="17.51" y1="6.5" y2="6.5"/></svg></a>
+        <a href="https://www.facebook.com/todolegaltech/" aria-label="Facebook" rel="me noopener" target="_blank"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg></a>
+        <a href="https://www.youtube.com/@todolegaltech" aria-label="YouTube" rel="me noopener" target="_blank"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2.5 17a24.12 24.12 0 0 1 0-10 2 2 0 0 1 1.4-1.4 49.56 49.56 0 0 1 16.2 0A2 2 0 0 1 21.5 7a24.12 24.12 0 0 1 0 10 2 2 0 0 1-1.4 1.4 49.55 49.55 0 0 1-16.2 0A2 2 0 0 1 2.5 17"/><path d="m10 15 5-3-5-3z"/></svg></a>
+      </div>
+    </div>
+
+  </div>
 </footer>

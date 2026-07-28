@@ -4,6 +4,7 @@ title: Política de Privacidad
 permalink: /legacy/privacy/
 menu: main
 language: es
+product: legacy
 toc: false
 ---
 

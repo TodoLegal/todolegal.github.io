@@ -1,7 +1,9 @@
 text: "jello"
 
 # Navigation is scoped by product + language.
-# Pages without a `product:` front-matter value default to "legacy" (see header.html).
+# Pages without a `product:` front-matter value default to "ai", the current
+# policies (see header.html / footer.html). The superseded documents carry an
+# explicit `product: legacy`.
 groups:
   # Legacy product
   - product: legacy

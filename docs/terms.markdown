@@ -4,6 +4,7 @@ title: Términos y Condiciones de Uso
 permalink: /legacy/terms/
 menu: main
 language: es
+product: legacy
 toc: false
 ---
 

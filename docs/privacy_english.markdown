@@ -3,6 +3,7 @@ layout: page
 title: Privacy Policy
 permalink: /legacy/privacy/en/
 language: en
+product: legacy
 toc: false
 ---
 

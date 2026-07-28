@@ -3,6 +3,7 @@ layout: page
 title: Terms and Conditions
 permalink: /legacy/terms/en/
 language: en
+product: legacy
 toc: false
 ---
 
