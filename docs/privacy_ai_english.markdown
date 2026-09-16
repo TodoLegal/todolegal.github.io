@@ -16,7 +16,7 @@ toc: false
 
 This Privacy Policy describes how Glyphtech Codex LLC, a limited liability company organized under the laws of the State of Delaware, United States of America, operating under the trade name TodoLegal, hereinafter referred to as "TodoLegal," "we," "us," or the "Company," collects, uses, stores, shares, and protects personal information.
 
-The data controller's contact information is: Glyphtech Codex LLC, trade name TodoLegal, 16192 Coastal Highway, Lewes, Delaware 19958, United States; email address: legal@todolegal.app; and telephone number: +1 302 918-5516.
+The data controller's contact information is: Glyphtech Codex LLC, trade name TodoLegal, 16192 Coastal Highway, Lewes, Delaware 19958, United States; general email address: info@todolegal.app; privacy email address: legal@todolegal.app; and telephone number: +1 302 918-5516.
 
 This Policy applies to the websites, applications, platforms, document repositories, artificial intelligence tools, legal libraries, newsletters, alerts, and other products and services operated by TodoLegal, collectively referred to as the "Service."
 
@@ -266,37 +266,33 @@ Customers requiring data residency or specific territorial restrictions must agr
 
 ## 22. Data Retention
 
-TodoLegal retains information for the period reasonably necessary to fulfill the purposes described in this Policy. While specific retention periods are being defined, the following criteria will apply.
+TodoLegal will retain personal information and Customer Content only for the period reasonably necessary to fulfill the purposes described in this Policy, provide and protect the Service, comply with legal obligations, and protect the rights of TodoLegal, its users, and third parties.
 
 ### 22.1 Account Information
 
-Account information may be retained while the account remains active and thereafter for as long as necessary to: a) administer the closure; b) resolve disputes; c) collect outstanding amounts; d) comply with legal obligations; and e) maintain contractual records.
+Account information may be retained while the account remains active and for the period necessary after deletion to: a) complete account closure processes; b) resolve outstanding obligations or disputes; c) comply with legal, tax, accounting, or regulatory obligations; d) maintain contractual records; and e) exercise or defend legal rights.
 
-### 22.2 Inputs, Outputs, and Conversations
+### 22.2 Inputs, Outputs, Conversations, and Uploaded Content
 
-Inputs, Outputs, and conversations may be retained while the account remains active to allow: a) access to history; b) continuity of conversations; c) reuse of documents; and d) operation of projects and related features.
+Following the deletion of an account, TodoLegal will delete Inputs, Outputs, conversations, uploaded documents, and other Customer Content associated with such account from active systems within a maximum period of six (6) months. During such period, this information may only be accessed or used when necessary to complete deletion processes, respond to account-related support requests, maintain the security of the Service, comply with legal obligations, or protect the legal rights of TodoLegal or its users.
 
-Users may delete certain information where the functionality is available or request deletion through our contact channels. Following cancellation, information may be retained for a reasonable period for closure, recovery, security, compliance, defense of claims, and backup cycles.
+TodoLegal will not use identifiable Inputs, Outputs, conversations, or Customer Content to train artificial intelligence models, develop datasets for third parties, conduct advertising activities, or for other commercial purposes unrelated to providing and protecting the Service. After the applicable retention period, TodoLegal may retain only aggregated or anonymized information that cannot reasonably identify a specific user, Customer, individual, legal matter, document, Input, or Output.
 
-### 22.3 Billing Information
+### 22.3 Security, Fraud Prevention, and Technical Records
 
-Billing information will be retained for the periods required by tax, accounting, contractual, and fraud-prevention obligations.
+TodoLegal may retain limited information, including technical logs, access records, metadata, and security records, for a maximum period of two (2) years following account deletion when reasonably necessary for: a) investigating security incidents; b) preventing fraud, abuse, or unauthorized access; c) maintaining the security, availability, and reliability of the Service; d) conducting technical audits; e) complying with legal obligations; or f) exercising or defending legal claims. Such information will only be used for these purposes.
 
-### 22.4 Technical and Security Logs
+### 22.4 Billing and Transaction Information
 
-Technical and security logs will be retained for periods proportionate to the needs of: a) monitoring; b) incident investigation; c) abuse prevention; d) business continuity; and e) defense of legal rights.
+Information related to payments, billing, and transactions may be retained for the period required by applicable tax, accounting, financial, contractual, or legal obligations. Such information will not be used to train artificial intelligence models or analyze Customer Content.
 
-### 22.5 Marketing
+### 22.5 Backups and Recovery Systems
 
-Marketing-related information will be retained while a commercial relationship, consent, or applicable legitimate interest exists, or until the person requests to stop receiving communications. We may retain a minimal suppression record after an unsubscribe request.
+Deletion from active systems may not result in immediate deletion from backup copies or disaster recovery systems. Information stored in such systems will remain protected, will not be used for new purposes, and will be deleted according to TodoLegal's backup retention cycles.
 
-### 22.6 Backups and Providers
+### 22.6 Enterprise Customers
 
-Deletion from the user interface may not result in immediate deletion from: a) backup copies; b) technical logs; c) recovery systems; and d) providers using periodic deletion cycles. Such information will remain protected and will not be used for new purposes.
-
-### 22.7 Criteria for Determining Retention
-
-When determining retention periods, we will consider: a) the amount and sensitivity of the information; b) the purpose of processing; c) user expectations; d) security risks; e) contractual requirements; f) legal obligations; g) limitation periods; and h) technical deletion capabilities.
+Enterprise Customers may establish different retention periods, deletion requirements, data residency requirements, or other data management obligations through applicable agreements, including data processing agreements, security addenda, or Enterprise contracts. In the event of a conflict, the provisions of the applicable Enterprise agreement will prevail.
 
 ## 23. Information Security
 
@@ -320,7 +316,7 @@ The scope of these rights will depend on applicable law and may be subject to ex
 
 ## 26. How to Exercise Privacy Rights
 
-Requests may be submitted to legal@todolegal.app.
+Requests may be submitted to legal@todolegal.app or, until that channel is enabled, to info@todolegal.app.
 
 The request should include: a) the requester's name; b) the email address associated with the account; c) the right the requester wishes to exercise; d) sufficient information to identify the relevant data; and e) the country or state of residence where relevant.
 
@@ -374,5 +370,6 @@ Glyphtech Codex LLC\
 Trade name: TodoLegal\
 16192 Coastal Highway\
 Lewes, Delaware 19958, United States\
-Email: legal@todolegal.app\
+Privacy email: legal@todolegal.app\
+General email: info@todolegal.app\
 Telephone: +1 302 918-5516

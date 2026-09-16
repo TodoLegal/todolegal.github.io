@@ -17,7 +17,7 @@ toc: false
 
 Esta Política de Privacidad describe cómo Glyphtech Codex LLC, una compañía de responsabilidad limitada constituida conforme a las leyes del Estado de Delaware, Estados Unidos de América, que opera bajo el nombre comercial TodoLegal, en adelante "TodoLegal", "nosotros" o la "Compañía", recopila, utiliza, almacena, comparte y protege información personal.
 
-Los datos de contacto del responsable son: Glyphtech Codex LLC, nombre comercial TodoLegal, 16192 Coastal Highway, Lewes, Delaware 19958, Estados Unidos; correo electrónico: legal@todolegal.app; y teléfono: +1 302 918-5516.
+Los datos de contacto del responsable son: Glyphtech Codex LLC, nombre comercial TodoLegal, 16192 Coastal Highway, Lewes, Delaware 19958, Estados Unidos; correo electrónico general: info@todolegal.app; correo de privacidad: legal@todolegal.app; y teléfono: +1 302 918-5516.
 
 Esta Política se aplica a los sitios web, aplicaciones, plataformas, repositorios documentales, herramientas de inteligencia artificial, bibliotecas legales, boletines, alertas y demás productos y servicios operados por TodoLegal, denominados conjuntamente el "Servicio".
 
@@ -265,39 +265,35 @@ Las leyes de esos países pueden diferir de las leyes del país del usuario. Cua
 
 Los clientes que necesiten residencia de datos o restricciones territoriales específicas deberán acordarlas mediante un contrato Enterprise.
 
-## 22. Conservación de información
+## 22. Conservación de la Información
 
-TodoLegal conserva información durante el tiempo razonablemente necesario para las finalidades descritas en esta Política. Mientras los períodos específicos de retención son definidos, se aplicarán los criterios siguientes.
+TodoLegal conservará la información personal y el Contenido del Cliente únicamente durante el período razonablemente necesario para cumplir con las finalidades descritas en esta Política, prestar y proteger el Servicio, cumplir obligaciones legales y proteger los derechos de TodoLegal, sus usuarios y terceros.
 
-### 22.1 Datos de cuenta
+### 22.1 Información de cuenta
 
-Los datos de cuenta podrán conservarse mientras la cuenta esté activa y posteriormente durante el tiempo necesario para: a) administrar el cierre; b) resolver controversias; c) cobrar montos pendientes; d) cumplir obligaciones legales; y e) mantener registros contractuales.
+La información de cuenta podrá conservarse mientras la cuenta permanezca activa y durante el tiempo necesario después de su eliminación para: a) completar procesos de cierre; b) resolver obligaciones pendientes o controversias; c) cumplir obligaciones legales, fiscales, contables o regulatorias; d) mantener registros contractuales; y e) ejercer o defender derechos legales.
 
-### 22.2 Inputs, Outputs y conversaciones
+### 22.2 Inputs, Outputs, conversaciones y contenido cargado
 
-Los Inputs, Outputs y conversaciones podrán conservarse mientras la cuenta permanezca activa para permitir: a) acceso al historial; b) continuidad de las conversaciones; c) reutilización de documentos; y d) funcionamiento de proyectos y funcionalidades relacionadas.
+Luego de la eliminación de una cuenta, TodoLegal eliminará los Inputs, Outputs, conversaciones, documentos cargados y demás Contenido del Cliente asociado a dicha cuenta de los sistemas activos dentro de un plazo máximo de seis (6) meses. Durante dicho período, esta información únicamente podrá ser utilizada cuando sea necesario para completar la eliminación, atender solicitudes de soporte relacionadas con la cuenta, mantener la seguridad del Servicio, cumplir obligaciones legales o proteger derechos legales de TodoLegal o sus usuarios.
 
-El usuario podrá eliminar determinada información cuando la funcionalidad esté disponible o solicitar su eliminación mediante los canales de contacto. Tras la cancelación, la información podrá conservarse durante un período razonable para cierre, recuperación, seguridad, cumplimiento, defensa de reclamaciones y ciclos de respaldo.
+TodoLegal no utilizará Inputs, Outputs, conversaciones o Contenido del Cliente identificable para entrenar modelos de inteligencia artificial, desarrollar conjuntos de datos para terceros, publicidad u otras finalidades comerciales distintas a la prestación y protección del Servicio. Posteriormente, TodoLegal podrá conservar únicamente información agregada o anonimizada que no permita identificar razonablemente a un usuario, Cliente, persona, asunto jurídico, documento, Input u Output específico.
 
-### 22.3 Datos de facturación
+### 22.3 Seguridad, prevención de fraude y registros técnicos
 
-Los datos de facturación se conservarán durante los períodos requeridos por obligaciones tributarias, contables, contractuales y de prevención de fraude.
+TodoLegal podrá conservar información limitada, incluyendo registros técnicos, registros de acceso, metadatos y registros de seguridad, por un período máximo de dos (2) años posteriores a la eliminación de la cuenta cuando sea razonablemente necesario para: a) investigar incidentes de seguridad; b) prevenir fraude, abuso o accesos no autorizados; c) mantener la seguridad, disponibilidad y confiabilidad del Servicio; d) realizar auditorías técnicas; e) cumplir obligaciones legales; o f) ejercer o defender reclamaciones legales. Esta información será utilizada únicamente para dichas finalidades.
 
-### 22.4 Registros técnicos y de seguridad
+### 22.4 Información de facturación y transacciones
 
-Los registros técnicos y de seguridad se conservarán durante períodos proporcionales a las necesidades de: a) monitoreo; b) investigación de incidentes; c) prevención de abuso; d) continuidad operativa; y e) defensa de derechos.
+La información relacionada con pagos, facturación y transacciones podrá conservarse durante el período requerido por obligaciones fiscales, contables, financieras, contractuales o legales aplicables. Esta información no será utilizada para entrenar modelos de inteligencia artificial ni para analizar el Contenido del Cliente.
 
-### 22.5 Marketing
+### 22.5 Copias de respaldo
 
-La información relacionada con marketing se conservará mientras exista una relación comercial, consentimiento o interés legítimo aplicable, o hasta que la persona solicite dejar de recibir comunicaciones. Podremos conservar un registro mínimo de exclusión después de la baja.
+La eliminación desde los sistemas activos puede no generar la eliminación inmediata de información almacenada en copias de respaldo o sistemas de recuperación. Dicha información permanecerá protegida, no será utilizada para nuevas finalidades y será eliminada conforme a los ciclos de retención de respaldos de TodoLegal.
 
-### 22.6 Respaldos y proveedores
+### 22.6 Clientes Enterprise
 
-La eliminación en la interfaz puede no producir la eliminación inmediata en: a) copias de respaldo; b) registros técnicos; c) sistemas de recuperación; y d) proveedores que utilicen ciclos periódicos de eliminación. Dicha información permanecerá protegida y no será utilizada para finalidades nuevas.
-
-### 22.7 Criterios para determinar la retención
-
-Para determinar los períodos de conservación consideraremos: a) la cantidad y sensibilidad de la información; b) la finalidad del tratamiento; c) las expectativas del usuario; d) los riesgos de seguridad; e) los requisitos contractuales; f) las obligaciones legales; g) los plazos de prescripción; y h) la capacidad técnica de eliminación.
+Los Clientes Enterprise podrán establecer períodos de conservación, eliminación, residencia de datos u otras condiciones específicas mediante acuerdos aplicables, incluyendo acuerdos de tratamiento de datos, anexos de seguridad o contratos Enterprise. En caso de conflicto, prevalecerán las disposiciones del acuerdo Enterprise correspondiente.
 
 ## 23. Seguridad de la información
 
@@ -375,5 +371,6 @@ Glyphtech Codex LLC\
 Nombre comercial: TodoLegal\
 16192 Coastal Highway\
 Lewes, Delaware 19958, Estados Unidos\
-Correo electrónico: legal@todolegal.app\
+Correo de privacidad: legal@todolegal.app\
+Correo general: info@todolegal.app\
 Teléfono: +1 302 918-5516
