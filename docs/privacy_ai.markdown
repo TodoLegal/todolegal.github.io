@@ -229,7 +229,7 @@ Cuando un usuario visita nuestro sitio web, Turnstile puede recopilar y analizar
 
 Cloudflare procesa esta información en nuestro nombre como proveedor de servicios de seguridad y encargado del tratamiento, únicamente con la finalidad de proteger la disponibilidad, integridad y seguridad de nuestros sitios web y servicios.
 
-Para mayor información sobre cómo Cloudflare procesa la información recopilada mediante Turnstile, puede consultar la política de privacidad específica de dicho servicio disponible en: <https://www.cloudflare.com/en-gb/turnstile-privacy-policy/>
+Para mayor información sobre cómo Cloudflare procesa la información recopilada mediante Turnstile, puede consultar la política de privacidad específica de dicho servicio disponible en: <https://www.cloudflare.com/es-es/turnstile-privacy-policy/>
 
 ## 16. Comunicaciones electrónicas
 
