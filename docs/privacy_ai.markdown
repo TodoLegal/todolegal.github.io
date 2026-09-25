@@ -11,7 +11,7 @@ toc: false
 <button class="btn">[EN]({{ site.baseurl }}{% link privacy_ai_english.markdown %})</button>
 
 **Fecha de entrada en vigor:** 18 de julio de 2026\
-**Última actualización:** 18 de julio de 2026
+**Última actualización:** 21 de septiembre de 2026
 
 ## 1. Identidad del responsable
 
@@ -95,7 +95,7 @@ Podemos procesar documentos como: a) contratos; b) escritos y resoluciones; c) p
 
 ### 6.6 Información técnica y de uso
 
-Podemos recopilar automáticamente: a) dirección IP; b) navegador y sistema operativo; c) tipo de dispositivo; d) idioma y zona horaria; e) identificadores de sesión o dispositivo; f) fecha y hora de acceso; g) páginas, módulos y funcionalidades utilizadas; h) duración y frecuencia de las sesiones; i) consumo de consultas; j) eventos, clics y navegación dentro de la Plataforma; k) mensajes de error y datos de rendimiento; l) registros de autenticación y seguridad; y m) ubicación aproximada derivada de la dirección IP.
+Podemos recopilar automáticamente: a) dirección IP; b) navegador y sistema operativo; c) tipo de dispositivo; d) idioma y zona horaria; e) identificadores de sesión o dispositivo; f) fecha y hora de acceso; g) páginas, módulos y funcionalidades utilizadas; h) duración y frecuencia de las sesiones; i) consumo de consultas; j) eventos, clics y navegación dentro de la Plataforma; k) mensajes de error y datos de rendimiento; l) registros de autenticación y seguridad; m) ubicación aproximada derivada de la dirección IP; y n) señales relacionadas con la seguridad utilizadas para detectar tráfico automatizado, prevenir abusos y proteger el Servicio.
 
 ### 6.7 Comunicaciones y soporte
 
@@ -187,7 +187,7 @@ TodoLegal podrá utilizar información agregada o desidentificada que no permita
 
 ## 12. Proveedores tecnológicos y destinatarios
 
-TodoLegal podrá compartir información con proveedores que necesiten tratarla para prestar servicios en nuestro nombre. Actualmente, estos pueden incluir: a) Anthropic, para procesar Inputs y generar Outputs mediante modelos comerciales de inteligencia artificial; b) modelos de la familia Llama, que podrán ejecutarse en infraestructura administrada por TodoLegal o por terceros; c) DigitalOcean, para servidores, bases de datos, redes e infraestructura; d) Google Cloud Storage, para almacenamiento de archivos, documentos y respaldos; e) Mixpanel, para analizar eventos, uso de funcionalidades y rendimiento del producto; f) Google Analytics, para obtener estadísticas generales sobre visitas y utilización de los sitios web; g) Mailgun, para comunicaciones transaccionales, autenticación, soporte, alertas y facturación; h) Mailchimp, para boletines, campañas, preferencias y métricas de interacción; i) procesadores de pago, incluyendo Stripe, cuando corresponda; j) abogados, contadores, auditores, consultores o proveedores de seguridad sujetos a obligaciones de confidencialidad; y k) otros proveedores de infraestructura, seguridad, comunicaciones y soporte.
+TodoLegal podrá compartir información con proveedores que necesiten tratarla para prestar servicios en nuestro nombre. Actualmente, estos pueden incluir: a) Anthropic, para procesar Inputs y generar Outputs mediante modelos comerciales de inteligencia artificial; b) modelos de la familia Llama, que podrán ejecutarse en infraestructura administrada por TodoLegal o por terceros; c) DigitalOcean, para servidores, bases de datos, redes e infraestructura; d) Google Cloud Storage, para almacenamiento de archivos, documentos y respaldos; e) Mixpanel, para analizar eventos, uso de funcionalidades y rendimiento del producto; f) Google Analytics, para obtener estadísticas generales sobre visitas y utilización de los sitios web; g) Mailgun, para comunicaciones transaccionales, autenticación, soporte, alertas y facturación; h) Mailchimp, para boletines, campañas, preferencias y métricas de interacción; i) procesadores de pago, incluyendo Stripe, cuando corresponda; j) abogados, contadores, auditores, consultores o proveedores de seguridad sujetos a obligaciones de confidencialidad; k) Cloudflare, Inc., para servicios de seguridad, protección contra bots, prevención de abuso y protección de infraestructura web; y l) otros proveedores de infraestructura, seguridad, comunicaciones y soporte.
 
 No todos los proveedores tendrán acceso a las mismas categorías de información ni al contenido de las conversaciones.
 
@@ -220,6 +220,16 @@ TodoLegal puede utilizar: a) cookies necesarias, que permiten iniciar sesión, m
 El usuario podrá: a) configurar su navegador; b) eliminar cookies; c) rechazar cookies no esenciales mediante el mecanismo disponible; y d) modificar sus preferencias cuando la Plataforma lo permita. Bloquear cookies necesarias puede impedir el inicio de sesión o el funcionamiento de algunas funcionalidades.
 
 TodoLegal atenderá señales universales de exclusión o mecanismos equivalentes cuando así lo requiera la legislación aplicable y sean técnicamente reconocibles. Las señales genéricas de "Do Not Track" que no tengan un estándar legal o técnico uniforme podrán no ser interpretadas automáticamente.
+
+### 15.3 Detección de bots y seguridad del sitio
+
+TodoLegal utiliza Cloudflare Turnstile, un servicio proporcionado por Cloudflare, Inc., para proteger nuestros sitios web contra tráfico automatizado malicioso, spam, intentos de abuso y otros riesgos de seguridad.
+
+Cuando un usuario visita nuestro sitio web, Turnstile puede recopilar y analizar señales técnicas del dispositivo y conexión del usuario, incluyendo: a) dirección IP; b) información técnica de conexión; c) huella digital TLS (TLS fingerprint); d) encabezados del navegador, incluyendo User-Agent; e) identificadores técnicos asociados al sitio, como el sitekey; y f) otras señales necesarias para determinar si una interacción proviene de una persona o de un sistema automatizado.
+
+Cloudflare procesa esta información en nuestro nombre como proveedor de servicios de seguridad y encargado del tratamiento, únicamente con la finalidad de proteger la disponibilidad, integridad y seguridad de nuestros sitios web y servicios.
+
+Para mayor información sobre cómo Cloudflare procesa la información recopilada mediante Turnstile, puede consultar la política de privacidad específica de dicho servicio disponible en: <https://www.cloudflare.com/en-gb/turnstile-privacy-policy/>
 
 ## 16. Comunicaciones electrónicas
 
