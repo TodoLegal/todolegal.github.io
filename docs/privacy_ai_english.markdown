@@ -280,7 +280,7 @@ TodoLegal will retain personal information and Customer Content only for the per
 
 ### 22.1 Account Information
 
-Account information may be retained while the account remains active and for the period necessary after deletion to: a) complete account closure processes; b) resolve outstanding obligations or disputes; c) comply with legal, tax, accounting, or regulatory obligations; d) maintain contractual records; and e) exercise or defend legal rights.
+Account information may be retained while the account remains active and for the period necessary after account deletion to: a) complete account closure processes; b) resolve outstanding obligations or disputes; c) comply with legal, tax, accounting, or regulatory obligations; d) maintain contractual records; and e) exercise or defend legal rights.
 
 ### 22.2 Inputs, Outputs, Conversations, and Uploaded Content
 

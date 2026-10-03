@@ -95,7 +95,7 @@ Podemos procesar documentos como: a) contratos; b) escritos y resoluciones; c) p
 
 ### 6.6 Información técnica y de uso
 
-Podemos recopilar automáticamente: a) dirección IP; b) navegador y sistema operativo; c) tipo de dispositivo; d) idioma y zona horaria; e) identificadores de sesión o dispositivo; f) fecha y hora de acceso; g) páginas, módulos y funcionalidades utilizadas; h) duración y frecuencia de las sesiones; i) consumo de consultas; j) eventos, clics y navegación dentro de la Plataforma; k) mensajes de error y datos de rendimiento; l) registros de autenticación y seguridad; m) ubicación aproximada derivada de la dirección IP; y n) señales relacionadas con la seguridad utilizadas para detectar tráfico automatizado, prevenir abusos y proteger el Servicio.
+Podemos recopilar automáticamente información técnica y de uso relacionada con la utilización del Servicio, incluyendo: a) dirección IP; b) navegador y sistema operativo; c) tipo de dispositivo; d) idioma y zona horaria; e) identificadores de sesión o dispositivo; f) fecha y hora de acceso; g) páginas, módulos y funcionalidades utilizadas; h) duración y frecuencia de las sesiones; i) consumo de consultas; j) eventos, clics y navegación dentro de la Plataforma; k) mensajes de error y datos de rendimiento; l) registros de autenticación y seguridad; m) ubicación aproximada derivada de la dirección IP; y n) señales técnicas relacionadas con seguridad utilizadas para detectar tráfico automatizado, prevenir abusos y proteger el Servicio.
 
 ### 6.7 Comunicaciones y soporte
 
@@ -187,7 +187,7 @@ TodoLegal podrá utilizar información agregada o desidentificada que no permita
 
 ## 12. Proveedores tecnológicos y destinatarios
 
-TodoLegal podrá compartir información con proveedores que necesiten tratarla para prestar servicios en nuestro nombre. Actualmente, estos pueden incluir: a) Anthropic, para procesar Inputs y generar Outputs mediante modelos comerciales de inteligencia artificial; b) modelos de la familia Llama, que podrán ejecutarse en infraestructura administrada por TodoLegal o por terceros; c) DigitalOcean, para servidores, bases de datos, redes e infraestructura; d) Google Cloud Storage, para almacenamiento de archivos, documentos y respaldos; e) Mixpanel, para analizar eventos, uso de funcionalidades y rendimiento del producto; f) Google Analytics, para obtener estadísticas generales sobre visitas y utilización de los sitios web; g) Mailgun, para comunicaciones transaccionales, autenticación, soporte, alertas y facturación; h) Mailchimp, para boletines, campañas, preferencias y métricas de interacción; i) procesadores de pago, incluyendo Stripe, cuando corresponda; j) abogados, contadores, auditores, consultores o proveedores de seguridad sujetos a obligaciones de confidencialidad; k) Cloudflare, Inc., para servicios de seguridad, protección contra bots, prevención de abuso y protección de infraestructura web; y l) otros proveedores de infraestructura, seguridad, comunicaciones y soporte.
+TodoLegal podrá compartir información con proveedores que necesiten tratarla para prestar servicios en nuestro nombre. Actualmente, estos pueden incluir: a) Anthropic, para procesar Inputs y generar Outputs mediante modelos comerciales de inteligencia artificial; b) modelos de la familia Llama, que podrán ejecutarse en infraestructura administrada por TodoLegal o por terceros; c) DigitalOcean, para servidores, bases de datos, redes e infraestructura; d) Google Cloud Storage, para almacenamiento de archivos, documentos y respaldos; e) Mixpanel, para analizar eventos, uso de funcionalidades y rendimiento del producto; f) Google Analytics, para obtener estadísticas generales sobre visitas y utilización de los sitios web; g) Mailgun, para comunicaciones transaccionales, autenticación, soporte, alertas y facturación; h) Mailchimp, para boletines, campañas, preferencias y métricas de interacción; i) procesadores de pago, incluyendo Stripe, cuando corresponda; j) abogados, contadores, auditores, consultores o proveedores de seguridad sujetos a obligaciones de confidencialidad; k) Cloudflare, Inc., para servicios de seguridad, protección contra bots, prevención de abuso y protección de infraestructura; y l) otros proveedores de infraestructura, seguridad, comunicaciones y soporte.
 
 No todos los proveedores tendrán acceso a las mismas categorías de información ni al contenido de las conversaciones.
 
@@ -229,7 +229,7 @@ Cuando un usuario visita nuestro sitio web, Turnstile puede recopilar y analizar
 
 Cloudflare procesa esta información en nuestro nombre como proveedor de servicios de seguridad y encargado del tratamiento, únicamente con la finalidad de proteger la disponibilidad, integridad y seguridad de nuestros sitios web y servicios.
 
-Para mayor información sobre cómo Cloudflare procesa la información recopilada mediante Turnstile, puede consultar la política de privacidad específica de dicho servicio disponible en: <https://www.cloudflare.com/es-es/turnstile-privacy-policy/>
+Para mayor información sobre cómo Cloudflare procesa la información recopilada mediante Turnstile, puede consultar la política de privacidad específica de dicho servicio disponible en: <https://www.cloudflare.com/es-la/turnstile-privacy-policy/>
 
 ## 16. Comunicaciones electrónicas
 
@@ -277,7 +277,7 @@ Los clientes que necesiten residencia de datos o restricciones territoriales esp
 
 ## 22. Conservación de la Información
 
-TodoLegal conservará la información personal y el Contenido del Cliente únicamente durante el período razonablemente necesario para cumplir con las finalidades descritas en esta Política, prestar y proteger el Servicio, cumplir obligaciones legales y proteger los derechos de TodoLegal, sus usuarios y terceros.
+TodoLegal conservará la información personal y el Contenido del Cliente únicamente durante el período razonablemente necesario para cumplir con las finalidades descritas en esta Política, proporcionar y proteger el Servicio, cumplir obligaciones legales y proteger los derechos de TodoLegal, sus usuarios y terceros.
 
 ### 22.1 Información de cuenta
 
@@ -285,9 +285,9 @@ La información de cuenta podrá conservarse mientras la cuenta permanezca activ
 
 ### 22.2 Inputs, Outputs, conversaciones y contenido cargado
 
-Luego de la eliminación de una cuenta, TodoLegal eliminará los Inputs, Outputs, conversaciones, documentos cargados y demás Contenido del Cliente asociado a dicha cuenta de los sistemas activos dentro de un plazo máximo de seis (6) meses. Durante dicho período, esta información únicamente podrá ser utilizada cuando sea necesario para completar la eliminación, atender solicitudes de soporte relacionadas con la cuenta, mantener la seguridad del Servicio, cumplir obligaciones legales o proteger derechos legales de TodoLegal o sus usuarios.
+Luego de la eliminación de una cuenta, TodoLegal eliminará los Inputs, Outputs, conversaciones, documentos cargados y demás Contenido del Cliente asociado a dicha cuenta de los sistemas activos dentro de un plazo máximo de seis (6) meses. Durante dicho período, esta información únicamente podrá accederse y ser utilizada cuando sea necesario para completar la eliminación, atender solicitudes de soporte relacionadas con la cuenta, mantener la seguridad del Servicio, cumplir obligaciones legales o proteger derechos legales de TodoLegal o sus usuarios.
 
-TodoLegal no utilizará Inputs, Outputs, conversaciones o Contenido del Cliente identificable para entrenar modelos de inteligencia artificial, desarrollar conjuntos de datos para terceros, publicidad u otras finalidades comerciales distintas a la prestación y protección del Servicio. Posteriormente, TodoLegal podrá conservar únicamente información agregada o anonimizada que no permita identificar razonablemente a un usuario, Cliente, persona, asunto jurídico, documento, Input u Output específico.
+TodoLegal no utilizará Inputs, Outputs, conversaciones o Contenido del Cliente identificable para entrenar modelos de inteligencia artificial, desarrollar conjuntos de datos para terceros, publicidad u otras finalidades comerciales distintas a la prestación y protección del Servicio. Una vez concluido el período de conservación aplicable, TodoLegal podrá conservar únicamente información agregada o anonimizada que no permita identificar razonablemente a un usuario, Cliente, persona, asunto jurídico, documento, Input u Output específico.
 
 ### 22.3 Seguridad, prevención de fraude y registros técnicos
 
@@ -299,11 +299,11 @@ La información relacionada con pagos, facturación y transacciones podrá conse
 
 ### 22.5 Copias de respaldo
 
-La eliminación desde los sistemas activos puede no generar la eliminación inmediata de información almacenada en copias de respaldo o sistemas de recuperación. Dicha información permanecerá protegida, no será utilizada para nuevas finalidades y será eliminada conforme a los ciclos de retención de respaldos de TodoLegal.
+La eliminación desde los sistemas activos puede no generar la eliminación inmediata de información almacenada en copias de respaldo o sistemas de recuperación ante desastres. Dicha información permanecerá protegida, no será utilizada para nuevas finalidades y será eliminada conforme a los ciclos de retención de respaldos de TodoLegal.
 
 ### 22.6 Clientes Enterprise
 
-Los Clientes Enterprise podrán establecer períodos de conservación, eliminación, residencia de datos u otras condiciones específicas mediante acuerdos aplicables, incluyendo acuerdos de tratamiento de datos, anexos de seguridad o contratos Enterprise. En caso de conflicto, prevalecerán las disposiciones del acuerdo Enterprise correspondiente.
+Los Clientes Enterprise podrán establecer períodos de conservación, requisitos de eliminación, requisitos de residencia de datos u otras obligaciones relacionadas con la gestión de la información mediante acuerdos aplicables, incluyendo acuerdos de tratamiento de datos, anexos de seguridad o contratos Enterprise. En caso de conflicto, prevalecerán las disposiciones del acuerdo Enterprise correspondiente.
 
 ## 23. Seguridad de la información
 
