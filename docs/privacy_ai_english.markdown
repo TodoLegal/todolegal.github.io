@@ -10,7 +10,7 @@ toc: false
 <button class="btn">[ES]({{ site.baseurl }}{% link privacy_ai.markdown %})</button>
 
 **Effective Date:** July 18, 2026\
-**Last Updated:** September 21, 2026
+**Last Updated:** October 3, 2026
 
 ## 1. Identity of the Data Controller
 

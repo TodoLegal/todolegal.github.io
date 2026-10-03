@@ -11,7 +11,7 @@ toc: false
 <button class="btn">[EN]({{ site.baseurl }}{% link privacy_ai_english.markdown %})</button>
 
 **Fecha de entrada en vigor:** 18 de julio de 2026\
-**Última actualización:** 21 de septiembre de 2026
+**Última actualización:** 3 de octubre de 2026
 
 ## 1. Identidad del responsable
 
