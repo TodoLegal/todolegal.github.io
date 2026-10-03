@@ -10,7 +10,7 @@ toc: false
 <button class="btn">[ES]({{ site.baseurl }}{% link privacy_ai.markdown %})</button>
 
 **Effective Date:** July 18, 2026\
-**Last Updated:** July 18, 2026
+**Last Updated:** October 3, 2026
 
 ## 1. Identity of the Data Controller
 
@@ -94,7 +94,7 @@ We may process documents such as: a) agreements; b) legal filings and decisions;
 
 ### 6.6 Technical and Usage Information
 
-We may automatically collect: a) IP address; b) browser and operating system; c) device type; d) language and time zone; e) session or device identifiers; f) date and time of access; g) pages, modules, and features used; h) session duration and frequency; i) query consumption; j) events, clicks, and navigation within the Platform; k) error messages and performance data; l) authentication and security logs; and m) approximate location derived from the IP address.
+We may automatically collect: a) IP address; b) browser and operating system; c) device type; d) language and time zone; e) session or device identifiers; f) date and time of access; g) pages, modules, and features used; h) session duration and frequency; i) query consumption; j) events, clicks, and navigation within the Platform; k) error messages and performance data; l) authentication and security logs; m) approximate location derived from the IP address; and n) security-related signals used to detect automated traffic, prevent abuse, and protect the Service.
 
 ### 6.7 Communications and Support
 
@@ -186,7 +186,7 @@ TodoLegal may use aggregated or de-identified information that cannot reasonably
 
 ## 12. Technology Providers and Recipients
 
-TodoLegal may share information with providers that need to process it to deliver services on our behalf. These may currently include: a) Anthropic, to process Inputs and generate Outputs through commercial artificial intelligence models; b) models from the Llama family, which may operate on infrastructure managed by TodoLegal or by third parties; c) DigitalOcean, for servers, databases, networks, and infrastructure; d) Google Cloud Storage, for storing files, documents, and backups; e) Mixpanel, to analyze events, feature usage, and product performance; f) Google Analytics, to obtain general statistics regarding visits to and use of our websites; g) Mailgun, for transactional communications, authentication, support, alerts, and billing; h) Mailchimp, for newsletters, campaigns, preferences, and engagement metrics; i) payment processors, including Stripe, where applicable; j) lawyers, accountants, auditors, consultants, or security providers subject to confidentiality obligations; and k) other infrastructure, security, communications, and support providers.
+TodoLegal may share information with providers that need to process it to deliver services on our behalf. These may currently include: a) Anthropic, to process Inputs and generate Outputs through commercial artificial intelligence models; b) models from the Llama family, which may operate on infrastructure managed by TodoLegal or by third parties; c) DigitalOcean, for servers, databases, networks, and infrastructure; d) Google Cloud Storage, for storing files, documents, and backups; e) Mixpanel, to analyze events, feature usage, and product performance; f) Google Analytics, to obtain general statistics regarding visits to and use of our websites; g) Mailgun, for transactional communications, authentication, support, alerts, and billing; h) Mailchimp, for newsletters, campaigns, preferences, and engagement metrics; i) payment processors, including Stripe, where applicable; j) lawyers, accountants, auditors, consultants, or security providers subject to confidentiality obligations; k) Cloudflare, Inc., for website security services, bot detection, abuse prevention, and infrastructure protection; and l) other infrastructure, security, communications, and support providers.
 
 Not all providers will have access to the same categories of information or to conversation content.
 
@@ -219,6 +219,16 @@ TodoLegal may use: a) necessary cookies, which support login, session maintenanc
 Users may: a) configure their browser; b) delete cookies; c) reject non-essential cookies through the available mechanism; and d) modify their preferences where the Platform permits. Blocking necessary cookies may prevent login or interfere with certain features.
 
 TodoLegal will honor universal opt-out signals or equivalent mechanisms where required by applicable law and technically recognizable. Generic "Do Not Track" signals that do not have a uniform legal or technical standard may not be automatically recognized.
+
+### 15.3 Bot Detection and Site Security
+
+TodoLegal uses Cloudflare Turnstile, a service provided by Cloudflare, Inc., to protect our websites against malicious automated traffic, spam, abuse attempts, and other security threats.
+
+When you visit our websites, Turnstile may collect and evaluate technical signals from your device and connection, including: a) IP address; b) connection information; c) TLS fingerprint; d) browser headers, including User-Agent information; e) technical identifiers associated with the website, such as the sitekey; and f) other signals necessary to determine whether an interaction is performed by a human visitor or an automated system.
+
+Cloudflare processes this information on our behalf as a service provider and data processor, solely for the purpose of protecting the availability, integrity, and security of our websites and services.
+
+For more information about how Cloudflare processes information collected through Turnstile, please review Cloudflare's Turnstile Privacy Policy available at: <https://www.cloudflare.com/en-gb/turnstile-privacy-policy/>
 
 ## 16. Electronic Communications
 
@@ -270,7 +280,7 @@ TodoLegal will retain personal information and Customer Content only for the per
 
 ### 22.1 Account Information
 
-Account information may be retained while the account remains active and for the period necessary after deletion to: a) complete account closure processes; b) resolve outstanding obligations or disputes; c) comply with legal, tax, accounting, or regulatory obligations; d) maintain contractual records; and e) exercise or defend legal rights.
+Account information may be retained while the account remains active and for the period necessary after account deletion to: a) complete account closure processes; b) resolve outstanding obligations or disputes; c) comply with legal, tax, accounting, or regulatory obligations; d) maintain contractual records; and e) exercise or defend legal rights.
 
 ### 22.2 Inputs, Outputs, Conversations, and Uploaded Content
 
